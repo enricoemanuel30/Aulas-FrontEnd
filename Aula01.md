@@ -85,14 +85,7 @@ flowchart TD
     E --> F[Aplicação publicada na Web]
 ```
 
-## 🔗 Repositório de Exemplo (Atividade 01)
 
-A Atividade 01 foi desenvolvida no repositório abaixo, que contém um jogo point-and-click em Vanilla JS:
-
-🔗 **Repositório:** https://github.com/Felipe-Pinheiro-Lopes/senai-projeto-vanilla
-🌐 **Deploy (Vercel):** https://senai-projeto-vanilla-mu.vercel.app/
-
-Esse repositório reúne o projeto prático da disciplina, utilizando HTML, CSS e JavaScript puros (sem frameworks), com deploy realizado via Vercel.
 
 ## ✅ Checklist da Aula
 
