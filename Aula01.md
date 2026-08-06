@@ -89,9 +89,9 @@ flowchart TD
 
 ## ✅ Checklist da Aula
 
-- [x] Anotar apresentação da disciplina e do professor
-- [x] Revisar o plano de ensino e critérios de avaliação
-- [x] Entender o conceito de Front-end e Vanilla JS
-- [x] Concluir a Atividade 01 (projeto + deploy na Vercel)
-- [x] Criar o resumo da Aula 1 - Vanilla JS (este arquivo)
+- [ ] Anotar apresentação da disciplina e do professor
+- [ ] Revisar o plano de ensino e critérios de avaliação
+- [ ] Entender o conceito de Front-end e Vanilla JS
+- [ ] Concluir a Atividade 01 (projeto + deploy na Vercel)
+- [ ] Criar o resumo da Aula 1 - Vanilla JS (este arquivo)
 - [ ] Formar grupo e iniciar a Atividade 02 (relatório de framework)
