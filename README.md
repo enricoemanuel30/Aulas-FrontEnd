@@ -1,4 +1,4 @@
-# 🌟 Resumo das Aulas de Front-End
+# 📖 Resumo das Aulas de Front-End
 
 Repositório principal das atividades da disciplina **Frameworks Front-end** (SENAI).
 
