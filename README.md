@@ -11,7 +11,7 @@ Repositório principal das atividades da disciplina **Frameworks Front-end** (SE
 
 ## 📑 Índice
 
-- [🌟 Resumo das Aulas de Front-End](#-resumo-das-aulas-de-front-end)
+- [📖 Resumo das Aulas de Front-End](#-resumo-das-aulas-de-front-end)
   - [📑 Índice](#-índice)
   - [🎓 Apresentação da Disciplina](#-apresentação-da-disciplina)
   - [🧭 Contexto da Disciplina](#-contexto-da-disciplina)
@@ -25,7 +25,6 @@ Repositório principal das atividades da disciplina **Frameworks Front-end** (SE
   - [💡 Dica Importante](#-dica-importante)
   - [📖 Referências](#-referências)
   - [📂 Aulas](#-aulas)
-  - [📂 Aulas](#-aulas-1)
 
 ---
 
@@ -133,13 +132,10 @@ Ao final do semestre, você será capaz de:
 
 ## 📂 Aulas
 
-## 📂 Aulas
-
 | Aula | Conteúdo | Projeto |
 |---|---|---|
-| 📘 **Aula 01** | Vanilla JS | [🔗 Acessar Projeto](COLE_AQUI_O_LINK) |
-| 📗 **Aula 02** | Configuração do Ambiente | [🔗 Acessar Projeto](COLE_AQUI_O_LINK) |
-| 📙 **Aula 03** | Projetos com Frameworks | [🔗 Acessar Projeto](COLE_AQUI_O_LINK) |
-| 📕 **Aula 04** | Em breve | [🔗 Acessar Projeto](COLE_AQUI_O_LINK) |
-| 📔 **Aula 05** | Em breve | [🔗 Acessar Projeto](COLE_AQUI_O_LINK) |
-| 📓 **Aula 06** | Em breve | [🔗 Acessar Projeto](COLE_AQUI_O_LINK) |
+| 📘 **Aula 01** | Vanilla JS | [🔗 Acessar Repositório](https://github.com/enricoemanuel30/Vanilla---SENAI)|
+| 📕 **Aula 02** | React | [🔗 Acessar Repositório](https://github.com/ViniciuspSouza23/4-projetos-web-React) |
+| 📗 **Aula 03** | Projeto Vue | [🔗 Acessar Repositório](https://github.com/enricoemanuel30/Projeto-Vue) |
+| 📔 **Aula 03** | Projeto Next.js | [🔗 Acessar Repositório](https://github.com/GustavooGomess/4-projetos-web-Next)|
+| 📙 **Aula 03** |Projeto Angular| [🔗 Acessar Repositório](https://github.com/paulopoppes-hash/project-angular)|
