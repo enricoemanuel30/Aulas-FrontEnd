@@ -11,17 +11,21 @@ Repositório principal das atividades da disciplina **Frameworks Front-end** (SE
 
 ## 📑 Índice
 
-1. [Apresentação da Disciplina](#-apresentação-da-disciplina)
-2. [Contexto da Disciplina](#-contexto-da-disciplina)
-3. [O que é Desenvolvimento Front-end?](#-o-que-é-desenvolvimento-front-end)
-4. [Conteúdo Programático](#-conteúdo-programático)
-5. [O que Estudaremos?](#-o-que-estudaremos)
-6. [Objetivo da Disciplina](#-objetivo-da-disciplina)
-7. [Metodologia de Ensino](#-metodologia-de-ensino)
-8. [Critérios de Avaliação](#-critérios-de-avaliação)
-9. [Dica Importante](#-dica-importante)
-10. [Referências](#-referências)
-11. [Aulas](#-aulas)
+- [🌟 Resumo das Aulas de Front-End](#-resumo-das-aulas-de-front-end)
+  - [📑 Índice](#-índice)
+  - [🎓 Apresentação da Disciplina](#-apresentação-da-disciplina)
+  - [🧭 Contexto da Disciplina](#-contexto-da-disciplina)
+  - [💡 O que é Desenvolvimento Front-end?](#-o-que-é-desenvolvimento-front-end)
+    - [🟨 Introdução ao JavaScript (Vanilla JS)](#-introdução-ao-javascript-vanilla-js)
+  - [📚 Conteúdo Programático](#-conteúdo-programático)
+  - [🔍 O que Estudaremos?](#-o-que-estudaremos)
+  - [🎯 Objetivo da Disciplina](#-objetivo-da-disciplina)
+  - [🛠️ Metodologia de Ensino](#️-metodologia-de-ensino)
+  - [📊 Critérios de Avaliação](#-critérios-de-avaliação)
+  - [💡 Dica Importante](#-dica-importante)
+  - [📖 Referências](#-referências)
+  - [📂 Aulas](#-aulas)
+  - [📂 Aulas](#-aulas-1)
 
 ---
 
@@ -129,4 +133,13 @@ Ao final do semestre, você será capaz de:
 
 ## 📂 Aulas
 
-- [Aula 1 - Vanilla JS](Aula01.md)
+## 📂 Aulas
+
+| Aula | Conteúdo | Projeto |
+|---|---|---|
+| 📘 **Aula 01** | Vanilla JS | [🔗 Acessar Projeto](COLE_AQUI_O_LINK) |
+| 📗 **Aula 02** | Configuração do Ambiente | [🔗 Acessar Projeto](COLE_AQUI_O_LINK) |
+| 📙 **Aula 03** | Projetos com Frameworks | [🔗 Acessar Projeto](COLE_AQUI_O_LINK) |
+| 📕 **Aula 04** | Em breve | [🔗 Acessar Projeto](COLE_AQUI_O_LINK) |
+| 📔 **Aula 05** | Em breve | [🔗 Acessar Projeto](COLE_AQUI_O_LINK) |
+| 📓 **Aula 06** | Em breve | [🔗 Acessar Projeto](COLE_AQUI_O_LINK) |
