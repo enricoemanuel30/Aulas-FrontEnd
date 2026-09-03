@@ -138,4 +138,5 @@ Ao final do semestre, você será capaz de:
 | 📕 **Aula 02** | React | [🔗 Acessar Repositório](https://github.com/ViniciuspSouza23/4-projetos-web-React) |
 | 📗 **Aula 03** | Projeto Vue | [🔗 Acessar Repositório](https://github.com/enricoemanuel30/Projeto-Vue) |
 | 📔 **Aula 03** | Projeto Next.js | [🔗 Acessar Repositório](https://github.com/GustavooGomess/4-projetos-web-Next)|
-| 📙 **Aula 03** |Projeto Angular| [🔗 Acessar Repositório](https://github.com/paulopoppes-hash/project-angular)|
+| 📙 **Aula 03** | Projeto Angular | [🔗 Acessar Repositório](https://github.com/paulopoppes-hash/project-angular)|
+| 🌐 **Aula 04** | APIs | [🔗 Acessar Repositório](https://github.com/enricoemanuel30/API-s) |
