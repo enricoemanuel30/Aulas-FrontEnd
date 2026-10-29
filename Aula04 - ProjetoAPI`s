@@ -1,0 +1,66 @@
+# 🚀 Projetos de APIs
+
+Repositório dedicado ao estudo, desenvolvimento e prática de **APIs (Application Programming Interfaces)**, reunindo projetos utilizados para aprender conceitos de desenvolvimento de software e integração entre sistemas.
+
+## 🎯 Objetivo
+
+Este diretório tem como objetivo consolidar conhecimentos práticos sobre APIs, explorando conceitos importantes para o desenvolvimento de aplicações, organização de código e comunicação entre sistemas.
+
+## 📂 Estrutura do projeto
+
+```text
+projetos-api/
+├── README.md
+└── ...
+```
+
+A estrutura pode variar conforme os projetos adicionados ao diretório.
+
+## 🛠️ Tecnologias
+
+As tecnologias utilizadas dependem de cada projeto e podem incluir:
+
+- Linguagens de programação;
+- Frameworks para desenvolvimento de APIs;
+- Ferramentas para testes e depuração;
+- Git e GitHub para versionamento de código.
+
+## ⚙️ Como utilizar
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/enricoemanuel30/API-s.git
+   ```
+
+2. Acesse a pasta dos projetos:
+
+   ```bash
+   cd API-s/Clones/projetos-api
+   ```
+
+3. Entre no diretório do projeto desejado.
+
+4. Consulte as instruções específicas de instalação e execução disponíveis nos arquivos de cada projeto.
+
+## 📚 Aprendizados
+
+Este repositório faz parte da minha jornada de aprendizado em desenvolvimento de sistemas, com foco em:
+
+- Compreensão do funcionamento de APIs;
+- Organização e estruturação de projetos;
+- Prática de programação;
+- Utilização do Git e GitHub;
+- Desenvolvimento de habilidades técnicas para aplicações reais.
+
+## 👨‍💻 Autor
+
+**Enrico Emanuel**
+
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), interessado em desenvolvimento de software, infraestrutura e evolução contínua na área de tecnologia.
+
+🔗 [GitHub — enricoemanuel30](https://github.com/enricoemanuel30)
+
+---
+
+*Repositório de estudos e prática em desenvolvimento de software.*
