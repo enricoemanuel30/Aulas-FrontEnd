@@ -132,8 +132,6 @@ Ao final do semestre, você será capaz de:
 
 ## 📂 Aulas
 
-## 📂 Aulas
-
 | Aula | Conteúdo | Projeto |
 |---|---|---|
 | 📘 **Aula 01** | Vanilla JS | [🔗 Acessar Repositório](https://github.com/enricoemanuel30/Vanilla---SENAI)|
