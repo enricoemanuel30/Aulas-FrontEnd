@@ -134,11 +134,13 @@ Ao final do semestre, você será capaz de:
 
 | Aula | Conteúdo | Projeto |
 |---|---|---|
-| 📘 **Aula 01** | Vanilla JS | [🔗 Acessar Repositório](https://github.com/enricoemanuel30/Vanilla---SENAI)|
-| 📕 **Aula 02** | React | [🔗 Acessar Repositório](https://github.com/ViniciuspSouza23/4-projetos-web-React) |
-| 📗 **Aula 03** | Projeto Vue | [🔗 Acessar Repositório](https://github.com/enricoemanuel30/Projeto-Vue) |
-| 📔 **Aula 03** | Projeto Next.js | [🔗 Acessar Repositório](https://github.com/GustavooGomess/4-projetos-web-Next)|
-| 📙 **Aula 03** | Projeto Angular | [🔗 Acessar Repositório](https://github.com/paulopoppes-hash/project-angular)|
-| 🌐 **Aula 04** | APIs | [🔗 Acessar Repositório](https://github.com/enricoemanuel30/API-s) |
-| 🎨 **Aula 07** | Frameworks CSS - Atividade 01 | [🔗 Acessar Repositório](https://github.com/enricoemanuel30/Aula04-css-frameworks.git) |
-| ⚡ **Aula 07** | Frameworks CSS - Atividade 02 (Tailwind) | [🔗 Acessar Repositório](https://github.com/enricoemanuel30/Aula07-Tailwind-frameworks.git) |
+Aula	Conteúdo	Projeto
+📘 Aula 01	Vanilla JS	🔗 Acessar Repositório
+📕 Aula 02	React	🔗 Acessar Repositório
+📗 Aula 03	Projeto Vue	🔗 Acessar Repositório
+📔 Aula 03	Projeto Next.js	🔗 Acessar Repositório
+📙 Aula 03	Projeto Angular	🔗 Acessar Repositório
+🌐 Aula 04	APIs	🔗 Acessar Repositório
+🚀 Aula 05	Criando APIs para o Front-end (Express e CRUD)	🔗 Acessar Repositório
+🎨 Aula 07	Frameworks CSS - Atividade 01	🔗 Acessar Repositório
+⚡ Aula 07	Frameworks CSS - Atividade 02 (Tailwind)	🔗 Acessar Repositório
