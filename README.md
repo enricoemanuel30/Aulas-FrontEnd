@@ -132,15 +132,13 @@ Ao final do semestre, você será capaz de:
 
 ## 📂 Aulas
 
-| Aula | Conteúdo | Projeto |
-|---|---|---|
-Aula	Conteúdo	Projeto
-📘 Aula 01	Vanilla JS	🔗 Acessar Repositório
-📕 Aula 02	React	🔗 Acessar Repositório
-📗 Aula 03	Projeto Vue	🔗 Acessar Repositório
-📔 Aula 03	Projeto Next.js	🔗 Acessar Repositório
-📙 Aula 03	Projeto Angular	🔗 Acessar Repositório
-🌐 Aula 04	APIs	🔗 Acessar Repositório
-🚀 Aula 05	Criando APIs para o Front-end (Express e CRUD)	🔗 Acessar Repositório
-🎨 Aula 07	Frameworks CSS - Atividade 01	🔗 Acessar Repositório
-⚡ Aula 07	Frameworks CSS - Atividade 02 (Tailwind)	🔗 Acessar Repositório
+Aula,Conteúdo,Projeto
+📘 Aula 01,Vanilla JS,🔗 Acessar Repositório
+📕 Aula 02,React,🔗 Acessar Repositório
+📗 Aula 03,Projeto Vue,🔗 Acessar Repositório
+📔 Aula 03,Projeto Next.js,🔗 Acessar Repositório
+📙 Aula 03,Projeto Angular,🔗 Acessar Repositório
+🌐 Aula 04,APIs,🔗 Acessar Repositório
+🚀 Aula 05,Criando APIs para o Front-end (Express e CRUD),🔗 Acessar Repositório
+🎨 Aula 07,Frameworks CSS - Atividade 01,🔗 Acessar Repositório
+⚡ Aula 07,Frameworks CSS - Atividade 02 (Tailwind),🔗 Acessar Repositório
